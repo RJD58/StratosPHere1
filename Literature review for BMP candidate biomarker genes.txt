@@ -1,0 +1,114 @@
+Literature references for candidate BMPR-II target genes
+
+Gene
+
+Full gene name
+Source
+APLN
+Apelin
+Decreased with BMPR2 loss in cardiomyoblasts (1) and endothelial cells (2, 3)
+ARL4C
+ADP-ribosylation factor-like 4C
+Downregulated in PAEC + BMP9 Microarray(4) 
+CHSY3
+Chondroitin sulfate synthase 3
+Upregulated in PAEC + BMP9 Microarray(4)
+DLX2
+Distal-less homeobox 2
+Upregulated in PAEC + BMP9  Microarray(4)
+EML6
+Echinoderm microtubule associated protein like 6
+Upregulated in PAEC + BMP9Microarray(4)
+FGFR3
+Fibroblast growth factor receptor 3
+Upregulated in PAEC + BMP9 Microarray(4)
+HEY 1
+Hairy/enhancer-of-split related with YRPW motif 1
+Upregulated in PAEC + BMP9 Microarray(4)
+ Literature (5Ð7)
+HEY 2
+Hairy/enhancer-of-split related with YRPW motif 2
+Upregulated in PAEC + BMP9 Microarray(4)
+Literature (5Ð7)
+ID1
+Inhibitor of DNA binding 1
+Upregulated in PAEC + BMP9 Microarray(4)
+Literature (8Ð10)
+ID2
+Inhibitor of DNA binding 2
+Upregulated in PAEC + BMP9 Microarray(4)
+Modulated by BMPR2 in PASMC (8)
+Responsive to BMP4 in monocyte derived dendritic cells and modulated by dorsomorpin (11)
+ID3
+Inhibitor of DNA binding 3
+Upregulated in PAEC + BMP9 Microarray(4)
+Modulated by BMPR2 in PASMC (8)
+Reduced in BMPR2 +/- rat (12)
+Responsive to BMP4 in monocyte derived dendritic cells and modulated by dorsomorpin (11)
+ID4
+Inhibitor of DNA binding 4
+Modulated by BMPR2 in PASMC (8)
+KIT
+v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog
+Down regulated in PAEC + BMP9 Microarray(4)
+NOTCH1 
+Notch receptor 1 
+?Increased in lungs of IPAH patients (13) 
+Loss of BMPR2 allowed for recruitment of
+BMP6 to the ActR-IIA/ALK2 complex leading to upregulation of NOTCH (14) 
+Interacts with BMPR2 in EC regeneration(15)
+NOTCH2
+Notch receptor 2
+Loss of BMPR2 allowed for recruitment of
+BMP6 to the ActR-IIA/ALK2 complex leading to upregulation of NOTCH (14)
+PTGS2
+Prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
+Upregulated in PAEC + BMP9 Microarray(4)
+Increased by BMP2 in SMAD dependent and independent manner in C2C12 cells (16)
+Reduced in IPAH PASMC (17)
+RAI2
+Retinoic acid induced 2
+Upregulated in PAEC + BMP9 Microarray (4)
+SMAD1
+SMAD family member 1
+Down regulated in PAEC + BMP9 Microarray (4), Mutation (18)
+SMAD5
+SMAD family member 5
+Literature (19, 20)
+SMAD6
+SMAD family member 6
+PAEC Microarray (BMP6 and 9)( 4) Literature (5, 21Ð23)
+SMAD7
+SMAD family member 7
+PAEC Microarray  (4)
+Literature (5, 23)
+SPRY1
+Sprouty homolog 1, antagonist of FGF signaling (Drosophila)
+PAEC Microarray (4)
+
+References
+
+1. A. L. Frump, M. Albrecht, B. Yakubov, S. Breuils-Bonnet, V. Nadeau, E. Tremblay, F. Potus, J. Omura, T. Cook, A. Fisher, B. Rodriguez, R. Dale Brown, K. R. Stenmark, C. Dustin Rubinstein, K. Krentz, D. M. Tabima, R. Li, X. Sun, N. C. Chesler, S. Provencher, S. Bonnet, T. Lahm, 17?-estradiol and estrogen receptor ? protect right ventricular function in pulmonary hypertension via BMPR2 and apelin. Journal of Clinical Investigation 131 (2021), doi:10.1172/JCI129433.
+2. T. P. Alastalo, M. Li, V. De Jesus Perez, D. Pham, H. Sawada, J. K. Wang, M. Koskenvuo, L. Wang, B. A. Freeman, H. Y. Chang, M. Rabinovitch, Disruption of PPAR?/?-catenin-mediated regulation of apelin impairs BMP-induced mouse and human pulmonary arterial EC survival. Journal of Clinical Investigation 121, 3735Ð3746 (2011).
+3. O. Poirier, M. Ciumas, M. Eyries, K. Montagne, S. Nadaud, F. Soubrier, Inhibition of apelin expression by BMP signaling in endothelial cells. American Journal of Physiology - Cell Physiology 303, 1139Ð1145 (2012).
+4. L. Long, M. Ormiston, X. Yang, M. Southwood, S. Graf, R. Machado, M. Mueller, B. Kinzel, L. Yung, J. Wilkinson, S. Moore, K. Drake, M. Adlred, P. Yu, P. Upton, N. Morrell, Selective enhancement of endothelial BMPR-II with BMP9 reverses pulmonary arterial hypertension. Nature Medicine 21, 777Ð785 (2015).
+5. B. LarrivŽe, C. Prahst, E. Gordon, R. del Toro, T. Mathivet, A. Duarte, M. Simons, A. Eichmann, ALK1 Signaling Inhibits Angiogenesis by Cooperating with the Notch Pathway. Developmental Cell 22, 489Ð500 (2012).
+6. L. C. Ponomarev, J. Ksiazkiewicz, M. W. Staring, A. Luttun, A. Zwijsen, The bmp pathway in blood vessel and lymphatic vessel biology. International Journal of Molecular Sciences 22 (2021), doi:10.3390/ijms22126364.
+7. M. Morikawa, D. Koinuma, S. Tsutsumi, E. Vasilaki, Y. Kanki, C. H. Heldin, H. Aburatani, K. Miyazono, ChIP-seq reveals cell type-specific binding patterns of BMP-specific Smads and a novel binding motif. Nucleic Acids Research 39, 8712Ð8727 (2011).
+8. J. Yang, X. Li, Y. Li, M. Southwood, L. Ye, L. Long, R. S. Al-Lamki, N. W. Morrell, Id proteins are critical downstream effectors of BMP signaling in human pulmonary arterial smooth muscle cells. American Journal of Physiology - Lung Cellular and Molecular Physiology 305, 312Ð321 (2013).
+9. J. Yang, R. J. Davies, M. Southwood, L. Long, X. Yang, A. Sobolewski, P. D. Upton, R. C. Trembath, N. W. Morrell, Mutations in bone morphogenetic protein type II receptor cause dysregulation of id gene expression in pulmonary artery smooth muscle cells implications for familial pulmonary arterial hypertension. Circulation Research 102, 1212Ð1221 (2008).
+10. G. Valdimarsdottir, M. J. Goumans, A. Rosendahl, M. Brugman, S. Itoh, F. Lebrin, P. Sideras, P. Ten Dijke, Stimulation of Id1 expression by bone morphogenetic protein is sufficient and necessary for bone morphogenetic protein-induced activation of endothelial cells. Circulation 106, 2263Ð2270 (2002).
+11. V. G. Mart’nez, C. Hern‡ndez-L—pez, J. Valencia, L. Hidalgo, A. Entrena, A. G. Zapata, A. Vicente, R. Saced—n, A. Varas, The canonical BMP signaling pathway is involved in human monocyte-derived dendritic cell maturation. Immunology and Cell Biology 89, 610Ð618 (2011).
+12. M. Du, H. Jiang, H. Liu, X. Zhao, Y. Zhou, F. Zhou, C. Piao, G. Xu, F. Ma, J. Wang, F. Perros, N. W. Morrell, H. Gu, J. Yang, Single-cell RNA sequencing reveals that BMPR2 mutation regulates right ventricular function via ID genes. European Respiratory Journal 60 (2022), doi:10.1183/13993003.00327-2021.
+13. S. Dabral, X. Tian, B. Kojonazarov, R. Savai, H. A. Ghofrani, N. Weissmann, M. Florio, J. Sun, D. Jonigk, L. Maegel, F. Grimminger, W. Seeger, S. S. Pullamsetti, R. T. Schermuly, Notch1 signalling regulates endothelial proliferation and apoptosis in pulmonary arterial hypertension. European Respiratory Journal 48, 1137Ð1149 (2016).
+14. L. A. Hurst, B. J. Dunmore, L. Long, A. Crosby, R. Al-Lamki, J. Deighton, M. Southwood, X. Yang, M. Z. Nikolic, B. Herrera, G. J. Inman, J. R. Bradley, A. A. Rana, P. D. Upton, N. W. Morrell, TNF? drives pulmonary arterial hypertension by suppressing the BMP type-II receptor and altering NOTCH signalling. Nature Communications 8 (2017), doi:10.1038/ncomms14079.
+15. K. Miyagawa, M. Shi, P. I. Chen, J. K. Hennigs, Z. Zhao, M. Wang, C. G. Li, T. Saito, S. Taylor, S. Sa, A. Cao, L. Wang, M. P. Snyder, M. Rabinovitch, Smooth Muscle Contact Drives Endothelial Regeneration by BMPR2-Notch1-Mediated Metabolic and Epigenetic Changes. Circulation Research 124, 211Ð224 (2019).
+16. A. R. G. Susperregui, C. Gamell, E. Rodr’guez-Carballo, M. J. Ortu–o, R. Bartrons, J. L. Rosa, F. Ventura, Noncanonical BMP signaling regulates cyclooxygenase-2 transcription. Molecular Endocrinology 25, 1006Ð1017 (2011).
+17. M. W. Gorr, K. Sriram, A. Muthusamy, P. A. Insel, Transcriptomic analysis of pulmonary artery smooth muscle cells identifies new potential therapeutic targets for idiopathic pulmonary arterial hypertension. British Journal of Pharmacology 177, 3505Ð3518 (2020).
+18. J. A. T. Casta–o, I. Hern‡ndez-Gonzalez, N. Gallego, C. PŽrez-Olivares, N. O. Parra, P. Arias, E. Granda, G. G. Acebo, M. Lago-Docampo, J. Palomino-Doza, M. L. Meseguer, M. J. Del Cerro, D. Valverde, P. Lapunzina, P. Escribano-Sub’as, Customized massive parallel sequencing panel for diagnosis of pulmonary arterial hypertension. Genes 11, 1Ð15 (2020).
+19. C. J. Rhodes, P. Otero-Nœ–ez, J. Wharton, E. M. Swietlik, S. Kariotis, L. Harbaum, M. J. Dunning, J. M. Elinoff, N. Errington, A. A. R. Thompson, J. Iremonger, J. G. Coghlan, P. A. Corris, L. S. Howard, D. G. Kiely, C. Church, J. Pepke-Zaba, M. Toshner, S. J. Wort, A. A. Desai, M. Humbert, W. C. Nichols, L. Southgate, D. A. TrŽgou‘t, R. C. Trembath, I. Prokopenko, S. GrŠf, N. W. Morrell, D. Wang, A. Lawrie, M. R. Wilkins, Whole-blood RNA profiles associated with pulmonary arterial hypertension and clinical outcome. American Journal of Respiratory and Critical Care Medicine 202, 586Ð594 (2020).
+20. S. Kariotis, E. Jammeh, E. M. Swietlik, J. A. Pickworth, C. J. Rhodes, P. Otero, J. Wharton, J. Iremonger, M. J. Dunning, D. Pandya, T. S. Mascarenhas, N. Errington, A. A. R. Thompson, C. E. Romanoski, F. Rischard, J. G. N. Garcia, J. X.-J. Yuan, T.-H. S. An, A. A. Desai, G. Coghlan, J. Lordan, P. A. Corris, L. S. Howard, R. Condliffe, D. G. Kiely, C. Church, J. Pepke-Zaba, M. Toshner, S. Wort, S. GrŠf, N. W. Morrell, M. R. Wilkins, A. Lawrie, D. Wang, M. Bleda, C. Hadinnapola, M. Haimel, K. Auckland, T. Tilly, J. M. Martin, K. Yates, C. M. Treacy, M. Day, A. Greenhalgh, D. Shipley, A. J. Peacock, V. Irvine, F. Kennedy, S. Moledina, L. MacDonald, E. Tamvaki, A. Barnes, V. Cookson, L. Chentouf, S. Ali, S. Othman, L. Ranganathan, J. S. R. Gibbs, R. DaCosta, J. Pinguel, N. Dormand, A. Parker, D. Stokes, D. Ghedia, Y. Tan, T. Ngcozana, I. Wanjiku, G. Polwarth, R. V. Mackenzie Ross, J. Suntharalingam, M. Grover, A. Kirby, A. Grove, K. White, A. Seatter, A. Creaser-Myers, S. Walker, S. Roney, C. A. Elliot, A. Charalampopoulos, I. Sabroe, A. Hameed, I. Armstrong, N. Hamilton, A. M. K. Rothman, A. J. Swift, J. M. Wild, F. Soubrier, M. Eyries, M. Humbert, D. Montani, B. Girerd, L. Scelsi, S. Ghio, H. Gall, A. Ghofrani, H. J. Bogaard, A. V. Noordegraaf, A. C. Houweling, A. H. inÕt Veld, G. Schotte, Biological heterogeneity in idiopathic pulmonary arterial hypertension identified through unsupervised transcriptomic profiling of whole blood. Nature Communications 12, 1Ð14 (2021).
+21. A. Hata, G. Lagna, J. MassaguŽ, A. Hemmati-Brivanlou, Smad6 inhibits BMP/Smad1 signaling by specifically competing with the Smad4 tumor suppressor. Genes and Development 12, 186Ð197 (1998).
+22. T. Imamura, M. Takase, A. Nishihara, E. Oeda, J. I. Hanai, M. Kawabata, K. Miyazono, Smad6 inhibits signalling by the TGF-? superfamily. Nature 389, 622Ð626 (1997).
+23. A. Hanyu, Y. Ishidou, T. Ebisawa, T. Shimanuki, T. Imamura, K. Miyazono, The N domain of Smad7 is essential for specific inhibition of transforming growth factor-? signaling. Journal of Cell Biology 155, 1017Ð1027 (2001).
+
